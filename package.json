@@ -1,0 +1,15 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Personal Portofolio Website",
+  "main": "js/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kishan Sahu",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "fontawesome": "^5.6.3"
+  }
+}
